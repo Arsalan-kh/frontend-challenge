@@ -11,7 +11,7 @@ var CardData = [
     title: "Team Builder",
     subtitle:
       " Scans our talent network to create the optimal team for your project",
-    image: "./images/icon-calculator.svg",
+    image: "./images/icon-team-builder.svg",
     borderTop:"cardred"
     
   },
