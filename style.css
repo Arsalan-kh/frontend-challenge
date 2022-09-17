@@ -13,7 +13,8 @@
 
 body{
     font-family: Poppins;
-    padding: 50px;
+  padding: 2rem;
+    background-color: var(--very-light-ray);
     
 overflow-x: hidden;
 font-size: 15px;
@@ -34,14 +35,14 @@ margin: 0;
 font-weight: 600;
 color:  var(--very-dark-blue);
 margin: 0 auto;
-
+padding-bottom: 1rem;
 }
 .head_text{
   
 
     margin: 0 auto;
-    padding: 22px;
-    line-height: 1.3rem;
+    padding-bottom: 3rem;
+    line-height: 1.5rem;
 color: var(--grayish-blue);
 }
 .card-container{
